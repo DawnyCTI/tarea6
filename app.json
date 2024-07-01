@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "tarea6",
+    "slug": "tarea6",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/foto.jpeg",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.dawny11.tarea6"
+    },
+    "web": {
+      "favicon": "./assets/foto.jpeg"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "3c7ca2eb-729d-42b6-a018-1a4a77fdc1bb"
+      }
+    }
+  }
+}
